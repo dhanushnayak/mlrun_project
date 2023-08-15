@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/admin/Desktop/Project/mlops_course/MLOpsTools_MLflow_and_HuggingFace/week1/mlproject/mlruns/0/884b73b7a32f49e9b42a98e19c914288/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 884b73b7a32f49e9b42a98e19c914288
+run_name: bustling-dog-753
+run_uuid: 884b73b7a32f49e9b42a98e19c914288
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692114476728
+status: 1
+tags: []
+user_id: admin

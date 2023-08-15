@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/admin/Desktop/Project/mlops_course/MLOpsTools_MLflow_and_HuggingFace/week1/mlproject/mlruns/0/4e26bbc385fa4c31b52126cd4c891701/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e26bbc385fa4c31b52126cd4c891701
+run_name: unleashed-bass-897
+run_uuid: 4e26bbc385fa4c31b52126cd4c891701
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692114926438
+status: 1
+tags: []
+user_id: admin
